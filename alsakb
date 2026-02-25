@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>السكب</title>
+<style>
+  body { background-color: #000; color: #fff; font-family: Arial, sans-serif; text-align: center; padding: 50px 20px; }
+  img.logo { width: 150px; height: auto; margin-bottom: 20px; }
+  h1 { margin: 0 0 10px; font-size: 28px; }
+  p { font-size: 18px; margin-bottom: 40px; }
+  .btn { display: block; width: 80%; max-width: 300px; margin: 10px auto; padding: 15px 0; background-color: #fff; color: #000; text-decoration: none; font-weight: bold; border-radius: 8px; transition: 0.3s; }
+  .btn:hover { background-color: #555; color: #fff; }
+</style>
+</head>
+<body>
+
+<img src="logo.png" alt="السكب" class="logo">
+<h1>السكب</h1>
+<p>الفخامة تبدأ من هنا</p>
+
+<a href="https://www.instagram.com/alsa.kb1?igsh=MXI4MGwyN2YxcWpvcg==" class="btn" target="_blank">Instagram</a>
+<a href="https://www.facebook.com/share/16NfWD6aNr/" class="btn" target="_blank">Facebook</a>
+<a href="https://www.tiktok.com/@al_sakb1?_r=1&_t=ZS-94CNWjD6F5Y" class="btn" target="_blank">TikTok</a>
+<a href="https://t.me/alsakab_1" class="btn" target="_blank">Telegram</a>
+<a href="https://wa.me/213771666167" class="btn" target="_blank">WhatsApp 1</a>
+<a href="https://wa.me/213556680890" class="btn" target="_blank">WhatsApp 2</a>
+
+</body>
+</html>
